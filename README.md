@@ -129,7 +129,7 @@ When a container is deploy and the developer close the issue in GitHub the user 
 The user can then used [docker](http://www.docker.com) or [rkt](https://coreos.com/rkt/docs/latest/) to pull or fetch the corresponding container. 
 
 
-3. Developing containers
+## 3. Developing containers
 -----------------------
 
 ### 3.1. How to build BioContainer's
